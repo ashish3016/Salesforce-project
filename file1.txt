@@ -1,10 +1,13 @@
 class Helloworld{
+
 	void display(string str){
 		system.out.println("welcome to git");
 		}
+
 	public static void main(){
-		Helloworld obj =new Helloworld();
-	obj.display("ashish")
+		system.out.println("welcome to git");
+		display("welcome to git")
+
 }
 }
 
