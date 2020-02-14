@@ -3,10 +3,15 @@ class Helloworld{
 	void display(string str){
 		system.out.println("welcome to git");
 		}
+	void resolvedbugmenthod()
+	{
+	//bug resolved
+	}
 
 	public static void main(){
 		system.out.println("welcome to git");
 		display("welcome to git")
+		obj.resolvebugmethod()
 
 }
 }
