@@ -1,7 +1,10 @@
 class Helloworld{
-	void display()
+	static void display(string str){
+		system.printlin("hi")
+		}
 	public static void main(){
 		system.out.println("welcome to git");
+		display("welcome to git")
 }
 }
 
